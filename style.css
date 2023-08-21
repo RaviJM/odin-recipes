@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color:red;
+    background-color: yellowgreen;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+ul{
+    /* color of bullets */
+    color:green;
+}
+
+li{
+    font-size: 40px;
+}
