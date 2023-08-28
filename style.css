@@ -1,17 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
 h1{
     text-align: center;
     color:red;
-    background-color: yellowgreen;
+    background-color: yellow;
     font-size: 50px;
     font-weight: 600;
     font-family: Helvetica, sans-serif, Arial;
 }
 
-ul{
-    /* color of bullets */
-    color:green;
+div{
+    width: 650px;
+    height: 200px;
+    display: inline-block;
+    color: blue;
+    background-color: yellowgreen;
+    padding: 60px;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-color: black;
+    margin: 15px;
+    
+    
 }
 
-li{
-    font-size: 40px;
+a{
+    font-size: 50px;
 }
